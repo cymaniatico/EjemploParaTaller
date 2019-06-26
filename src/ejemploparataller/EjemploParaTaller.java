@@ -34,7 +34,8 @@ public class EjemploParaTaller {
                 posicion=i;
             }
         }
-        System.out.println("El promedio de tiempos es: "+(totalTiempos/tiempo.length));
+        promedio = totalTiempos/tiempo.length;
+        System.out.println("El promedio de tiempos es: "+promedio);
         System.out.println("El estudiante más rapido fue "+primerNombre[posicion]+ " con "+tiempo[posicion]);
     }
     
