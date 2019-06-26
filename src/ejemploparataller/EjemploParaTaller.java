@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Luis Carlos Garcia
+ * @author Luis Carlos Garcia, Fireman Pineda, Javier Fernandez
  */
 public class EjemploParaTaller {
 
