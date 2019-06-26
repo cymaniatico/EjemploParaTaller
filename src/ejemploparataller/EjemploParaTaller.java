@@ -13,11 +13,7 @@ import java.util.Scanner;
  */
 public class EjemploParaTaller {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
         Scanner leer = new Scanner(System.in);
         double promedio, totalTiempos = 0, menorTiempo;
         int posicion=0;
